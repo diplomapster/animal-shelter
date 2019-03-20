@@ -1,10 +1,6 @@
-img{
-  width: 200px;
-  height: 200px;
-  border-style: solid;
-  border-color: navy;
-  border-width: 5px;
-  padding: 3px;
+body{
+  font-family: sans-serif;
+  background-color: lightgray;
 }
 
 h1{
@@ -12,14 +8,17 @@ h1{
   font-family: monospace;
 }
 
-body{
-  font-family: sans-serif;
-  background-color: lightgray;
-}
-
-
 .dogs{
 color: blue;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+  border-color: navy;
+  border-width: 5px;
+  padding: 3px;
 }
 
 .column1{
@@ -47,10 +46,12 @@ color: blue;
   padding: 10px;
   margin: 5px;
 }
+
 .column2 p{
   font-weight: lighter;
   color: darkgreen;
 }
+
 .column3{
   float:left;
   width: 30%;
@@ -60,6 +61,7 @@ color: blue;
   padding: 10px;
   margin: 5px;
 }
+
 .column3 p{
   font-weight: bold;
   color: darkred;
