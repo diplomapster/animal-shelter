@@ -33,6 +33,11 @@ color: blue;
   margin: 5px;
 }
 
+.column1 p{
+  font-weight: bold;
+  color: darkblue;
+}
+
 .column2{
   float:left;
   width: 30%;
@@ -42,7 +47,10 @@ color: blue;
   padding: 10px;
   margin: 5px;
 }
-
+.column2 p{
+  font-weight: lighter;
+  color: darkgreen;
+}
 .column3{
   float:left;
   width: 30%;
@@ -51,6 +59,10 @@ color: blue;
   border-width: 5px;
   padding: 10px;
   margin: 5px;
+}
+.column3 p{
+  font-weight: bold;
+  color: darkred;
 }
 
 .details{
