@@ -1,0 +1,58 @@
+img{
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+  border-color: navy;
+  border-width: 5px;
+  padding: 3px;
+}
+
+h1{
+  text-align: center;
+  font-family: monospace;
+}
+
+body{
+  font-family: sans-serif;
+  background-color: lightgray;
+}
+
+
+.dogs{
+color: blue;
+}
+
+.column1{
+  float:left;
+  width: 30%;
+  height: 50%;
+  border-style: solid;
+  border-color: navy;
+  border-width: 5px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.column2{
+  float:left;
+  width: 30%;
+  border-style: solid;
+  border-color: navy;
+  border-width: 5px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.column3{
+  float:left;
+  width: 30%;
+  border-style: solid;
+  border-color: navy;
+  border-width: 5px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.details{
+float:left;
+}
